@@ -4,4 +4,4 @@
 
 👀 I’m interested in AI, Sport, Volunteering and Travel
 
-💞️ I’m looking to collaborate on Anything exciting Data Science Project
+💞️ I’m looking to collaborate on any exciting Data Science Project
