@@ -1,6 +1,6 @@
 👋 Hi, I’m Jean YAPO
 
-🌱 I just graduated from a Master’s degree in Data Science
+🌱 I recently graduated with a Master's degree in Data Science
 
 👀 I’m interested in AI, Sport, Volunteering and Travelling
 
