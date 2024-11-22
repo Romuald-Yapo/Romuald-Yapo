@@ -1,7 +1,7 @@
 👋 Hi, I’m Jean YAPO
 
-🌱 I’m currently learning Data Science in a Master's Program
+🌱 I just graduated from a Master’s degree in Data Science
 
 👀 I’m interested in AI, Sport, Volunteering and Travelling
 
-💞️ I’m looking to collaborate on any exciting Data Science Project
+💞️ I'm looking to collaborate on exciting Data Science projects, especially those those focused on Deep Learning models applications (Computer Vision, NLP, AIgenarative).
