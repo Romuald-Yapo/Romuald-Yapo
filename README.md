@@ -5,4 +5,3 @@
 👀 I’m interested in Deep Learning, NLP, LLMs and this life in general
 
 💞️ I'm looking to collaborate on exciting Data Science projects, especially those focused on Deep Learning models applications.
-.
